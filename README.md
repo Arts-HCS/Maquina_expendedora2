@@ -32,7 +32,7 @@ Welcome to your virtual vending machine! Here's how to use it:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flask-vending-machine.git
+   git clone https://github.com/Arts-HCS/flask-vending-machine.git
    cd flask-vending-machine
    
 2. **Create and activate a virtual environment**
